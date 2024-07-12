@@ -16,6 +16,8 @@ The data for this project is sourced from Kaggle. It includes four CSV files, ea
 2. **Table Creation:**
    - Created four tables corresponding to the four CSV files.
    - Defined primary keys and foreign keys to ensure data integrity.
+![EER Diagram](assets/EER.png)
+
 
 3. **Data Import:**
    - Imported the data from the CSV files into the respective tables.
